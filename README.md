@@ -1,5 +1,3 @@
 # DSC180A-Methodology-3
-
-Ivy Hawks
-Ciro Zhang
+Ivy Hawks and Ciro Zhang
 
