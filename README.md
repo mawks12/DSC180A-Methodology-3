@@ -1,5 +1,5 @@
 # DSC180A-Methodology-3
 
-Ivy hawks
+Ciro Zhang
 mahawks@ucsd.edu
 
